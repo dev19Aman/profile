@@ -8,7 +8,7 @@ const App = () => {
     <main className="container">
       <section className="intro-section">
         <img src={image} alt="Your Name" className="profile-img" />
-        <h1 className="heading">Aman kumar</h1>
+        <h1 className="heading">this is aman </h1>
            </section>
             <section className="connect-section">
            <ul className="social-links">
