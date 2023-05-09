@@ -11,7 +11,7 @@
 }
 
 .intro-section {
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 
 .profile-img {
@@ -22,14 +22,10 @@
 }
 
 .heading {
-  font-size: 2rem;
-  margin-bottom: 0.5rem;
+  font-size: 18px;
+  font-weight: 700;
 }
 
-.description {
-  font-size: 1rem;
-  margin-bottom: 2rem;
-}
 
 .subheading {
   font-size: 1.5rem;
