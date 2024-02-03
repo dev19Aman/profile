@@ -1,5 +1,4 @@
 import "./App.css";
-import webProfile from "./assets/web-profile.jpg";
 import image3 from "./assets/Untitled design (6).png";
 import { CiTwitter, CiLinkedin } from "react-icons/ci";
 import { RiGithubLine } from "react-icons/ri";
