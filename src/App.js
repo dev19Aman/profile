@@ -3,7 +3,9 @@ import image3 from "./assets/Untitled design (6).png";
 import { CiTwitter, CiLinkedin } from "react-icons/ci";
 import { RiGithubLine } from "react-icons/ri";
 import { FaBehanceSquare } from "react-icons/fa";
-import { FcDribbble } from "react-icons/fc";
+// import { FcDribbble } from "react-icons/fc";
+// import { FaDribbble } from "react-icons/fa6";
+import { IoLogoDribbble } from "react-icons/io";
 
 
 const App = () => {
@@ -32,7 +34,7 @@ const App = () => {
           </li>
           <li>
             <a href="https://dribbble.com/amandeve">
-              <FcDribbble />
+              <IoLogoDribbble />
             </a>
           </li>
           <li>
